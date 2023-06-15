@@ -1,0 +1,455 @@
+C:\Users\MY PC\source\repos\lamdatagridview\lamdatagridview\bin\Debug\lamdatagridview.exe.config
+C:\Users\MY PC\source\repos\lamdatagridview\lamdatagridview\bin\Debug\lamdatagridview.exe
+C:\Users\MY PC\source\repos\lamdatagridview\lamdatagridview\bin\Debug\lamdatagridview.pdb
+C:\Users\MY PC\source\repos\lamdatagridview\lamdatagridview\bin\Debug\System.Data.SqlClient.dll
+C:\Users\MY PC\source\repos\lamdatagridview\lamdatagridview\bin\Debug\System.Data.SqlClient.xml
+C:\Users\MY PC\source\repos\lamdatagridview\lamdatagridview\obj\Debug\lamdatagridview.csproj.AssemblyReference.cache
+C:\Users\MY PC\source\repos\lamdatagridview\lamdatagridview\obj\Debug\lamdatagridview.Form1.resources
+C:\Users\MY PC\source\repos\lamdatagridview\lamdatagridview\obj\Debug\lamdatagridview.Properties.Resources.resources
+C:\Users\MY PC\source\repos\lamdatagridview\lamdatagridview\obj\Debug\lamdatagridview.csproj.GenerateResource.cache
+C:\Users\MY PC\source\repos\lamdatagridview\lamdatagridview\obj\Debug\lamdatagridview.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\source\repos\lamdatagridview\lamdatagridview\obj\Debug\lamdatagridview.csproj.CopyComplete
+C:\Users\MY PC\source\repos\lamdatagridview\lamdatagridview\obj\Debug\lamdatagridview.exe
+C:\Users\MY PC\source\repos\lamdatagridview\lamdatagridview\obj\Debug\lamdatagridview.pdb
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\bin\Debug\lamdatagridview.exe.config
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\bin\Debug\lamdatagridview.exe
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\bin\Debug\lamdatagridview.pdb
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\bin\Debug\System.Data.SqlClient.dll
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\bin\Debug\System.Data.SqlClient.xml
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\obj\Debug\lamdatagridview.csproj.AssemblyReference.cache
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\obj\Debug\lamdatagridview.Form1.resources
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\obj\Debug\lamdatagridview.Properties.Resources.resources
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\obj\Debug\lamdatagridview.csproj.GenerateResource.cache
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\obj\Debug\lamdatagridview.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\obj\Debug\lamdatagridview.csproj.CopyComplete
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\obj\Debug\lamdatagridview.exe
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\obj\Debug\lamdatagridview.pdb
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\bin\Debug\stdole.dll
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\MY PC\source\repos\lamdatagridview - Copy\lamdatagridview\obj\Debug\lamdatagridview.reportNhanVien.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\bin\Debug\lamdatagridview.exe.config
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\bin\Debug\lamdatagridview.exe
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\bin\Debug\lamdatagridview.pdb
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\bin\Debug\System.Data.SqlClient.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\bin\Debug\stdole.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\bin\Debug\System.Data.SqlClient.xml
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\obj\Debug\lamdatagridview.csproj.AssemblyReference.cache
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\obj\Debug\lamdatagridview.Form1.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\obj\Debug\lamdatagridview.Properties.Resources.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\obj\Debug\lamdatagridview.reportNhanVien.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\obj\Debug\lamdatagridview.csproj.GenerateResource.cache
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\obj\Debug\lamdatagridview.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\obj\Debug\lamdatagridview.csproj.CopyComplete
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\obj\Debug\lamdatagridview.exe
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022\lamdatagridview\obj\Debug\lamdatagridview.pdb
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\bin\Debug\lamdatagridview.exe.config
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\bin\Debug\lamdatagridview.exe
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\bin\Debug\lamdatagridview.pdb
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\bin\Debug\System.Data.SqlClient.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\bin\Debug\stdole.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\bin\Debug\System.Data.SqlClient.xml
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\obj\Debug\lamdatagridview.csproj.AssemblyReference.cache
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\obj\Debug\lamdatagridview.Form1.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\obj\Debug\lamdatagridview.Properties.Resources.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\obj\Debug\lamdatagridview.reportNhanVien.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\obj\Debug\lamdatagridview.csproj.GenerateResource.cache
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\obj\Debug\lamdatagridview.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\obj\Debug\lamdatagridview.csproj.CopyComplete
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\obj\Debug\lamdatagridview.exe
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\obj\Debug\lamdatagridview.pdb
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\obj\Debug\lamdatagridview.KhachHang.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\obj\Debug\lamdatagridview.Main.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay28.02.2022 - Copy\lamdatagridview\obj\Debug\lamdatagridview.reportKhachHang.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\bin\Debug\lamdatagridview.exe.config
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\bin\Debug\lamdatagridview.exe
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\bin\Debug\lamdatagridview.pdb
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\bin\Debug\System.Data.SqlClient.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\bin\Debug\stdole.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\bin\Debug\System.Data.SqlClient.xml
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\obj\Debug\lamdatagridview.csproj.AssemblyReference.cache
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\obj\Debug\lamdatagridview.Form1.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\obj\Debug\lamdatagridview.KhachHang.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\obj\Debug\lamdatagridview.Main.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\obj\Debug\lamdatagridview.Properties.Resources.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\obj\Debug\lamdatagridview.reportKhachHang.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\obj\Debug\lamdatagridview.reportNhanVien.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\obj\Debug\lamdatagridview.csproj.GenerateResource.cache
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\obj\Debug\lamdatagridview.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\obj\Debug\lamdatagridview.csproj.CopyComplete
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\obj\Debug\lamdatagridview.exe
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\obj\Debug\lamdatagridview.pdb
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay02.03.2022\lamdatagridview\obj\Debug\lamdatagridview.reportPhong.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\bin\Debug\lamdatagridview.exe.config
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\bin\Debug\lamdatagridview.exe
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\bin\Debug\lamdatagridview.pdb
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\bin\Debug\System.Data.SqlClient.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\bin\Debug\stdole.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\bin\Debug\System.Data.SqlClient.xml
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\obj\Debug\lamdatagridview.csproj.AssemblyReference.cache
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\obj\Debug\lamdatagridview.Form1.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\obj\Debug\lamdatagridview.KhachHang.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\obj\Debug\lamdatagridview.Main.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\obj\Debug\lamdatagridview.Properties.Resources.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\obj\Debug\lamdatagridview.reportKhachHang.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\obj\Debug\lamdatagridview.reportNhanVien.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\obj\Debug\lamdatagridview.reportPhong.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\obj\Debug\lamdatagridview.csproj.GenerateResource.cache
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\obj\Debug\lamdatagridview.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\obj\Debug\lamdatagridview.csproj.CopyComplete
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\obj\Debug\lamdatagridview.exe
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\obj\Debug\lamdatagridview.pdb
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\obj\Debug\lamdatagridview.reportHDphong1.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay07.03.2022\lamdatagridview\obj\Debug\lamdatagridview.inHD.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\bin\Debug\lamdatagridview.exe.config
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\bin\Debug\lamdatagridview.exe
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\bin\Debug\lamdatagridview.pdb
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\bin\Debug\System.Data.SqlClient.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\bin\Debug\stdole.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\bin\Debug\System.Data.SqlClient.xml
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\obj\Debug\lamdatagridview.csproj.AssemblyReference.cache
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\obj\Debug\lamdatagridview.Form1.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\obj\Debug\lamdatagridview.inHD.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\obj\Debug\lamdatagridview.KhachHang.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\obj\Debug\lamdatagridview.Main.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\obj\Debug\lamdatagridview.Properties.Resources.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\obj\Debug\lamdatagridview.reportHDphong1.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\obj\Debug\lamdatagridview.reportKhachHang.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\obj\Debug\lamdatagridview.reportNhanVien.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\obj\Debug\lamdatagridview.reportPhong.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\obj\Debug\lamdatagridview.csproj.GenerateResource.cache
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\obj\Debug\lamdatagridview.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\obj\Debug\lamdatagridview.csproj.CopyComplete
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\obj\Debug\lamdatagridview.exe
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH_ngay09.03.2022\lamdatagridview\obj\Debug\lamdatagridview.pdb
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\bin\Debug\lamdatagridview.exe.config
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\bin\Debug\lamdatagridview.exe
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\bin\Debug\lamdatagridview.pdb
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\bin\Debug\System.Data.SqlClient.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\bin\Debug\stdole.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\bin\Debug\System.Data.SqlClient.xml
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\obj\Debug\lamdatagridview.csproj.AssemblyReference.cache
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\obj\Debug\lamdatagridview.Form1.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\obj\Debug\lamdatagridview.inHD.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\obj\Debug\lamdatagridview.KhachHang.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\obj\Debug\lamdatagridview.Main.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\obj\Debug\lamdatagridview.Properties.Resources.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\obj\Debug\lamdatagridview.reportHDdichvu.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\obj\Debug\lamdatagridview.reportHDphong1.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\obj\Debug\lamdatagridview.reportKhachHang.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\obj\Debug\lamdatagridview.reportNhanVien.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\obj\Debug\lamdatagridview.reportPhong.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\obj\Debug\lamdatagridview.csproj.GenerateResource.cache
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\obj\Debug\lamdatagridview.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\obj\Debug\lamdatagridview.csproj.CopyComplete
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\obj\Debug\lamdatagridview.exe
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\obj\Debug\lamdatagridview.pdb
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\obj\Debug\lamdatagridview.inHDdichvu.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\obj\Debug\lamdatagridview.DichVuKS.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTTH\lamdatagridview\obj\Debug\lamdatagridview.KH_DV.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\bin\Debug\lamdatagridview.exe.config
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\bin\Debug\lamdatagridview.exe
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\bin\Debug\lamdatagridview.pdb
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\bin\Debug\System.Data.SqlClient.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\bin\Debug\stdole.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\bin\Debug\System.Data.SqlClient.xml
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\obj\Debug\lamdatagridview.csproj.AssemblyReference.cache
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\obj\Debug\lamdatagridview.DichVuKS.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\obj\Debug\lamdatagridview.Form1.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\obj\Debug\lamdatagridview.inHD.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\obj\Debug\lamdatagridview.inHDdichvu.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\obj\Debug\lamdatagridview.KhachHang.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\obj\Debug\lamdatagridview.KH_DV.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\obj\Debug\lamdatagridview.Main.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\obj\Debug\lamdatagridview.Properties.Resources.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\obj\Debug\lamdatagridview.reportHDdichvu.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\obj\Debug\lamdatagridview.reportHDphong1.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\obj\Debug\lamdatagridview.reportKhachHang.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\obj\Debug\lamdatagridview.reportNhanVien.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\obj\Debug\lamdatagridview.reportPhong.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\obj\Debug\lamdatagridview.csproj.GenerateResource.cache
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\obj\Debug\lamdatagridview.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\obj\Debug\lamdatagridview.csproj.CopyComplete
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\obj\Debug\lamdatagridview.exe
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\obj\Debug\lamdatagridview.pdb
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK\lamdatagridview\obj\Debug\lamdatagridview.ThemDVchoKH.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\lamdatagridview.exe.config
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\lamdatagridview.exe
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\lamdatagridview.pdb
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\System.Data.SqlClient.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\stdole.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\System.Data.SqlClient.xml
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.csproj.AssemblyReference.cache
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.DangNhap.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.DichVuKS.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.Form1.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.inHD.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.inHDdichvu.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.KhachHang.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.KH_DV.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.Main.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.Properties.Resources.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.reportHDdichvu.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.reportHDphong1.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.reportKhachHang.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.reportNhanVien.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.reportPhong.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.ThemDVchoKH.resources
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.csproj.GenerateResource.cache
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.csproj.CopyComplete
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.exe
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.pdb
+C:\Users\MY PC\source\repos\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.DangKi.resources
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\lamdatagridview.exe.config
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\lamdatagridview.exe
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\lamdatagridview.pdb
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\System.Data.SqlClient.dll
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\stdole.dll
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\bin\Debug\System.Data.SqlClient.xml
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.csproj.AssemblyReference.cache
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.DangKi.resources
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.DangNhap.resources
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.DichVuKS.resources
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.Form1.resources
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.inHD.resources
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.inHDdichvu.resources
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.KhachHang.resources
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.KH_DV.resources
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.Main.resources
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.Properties.Resources.resources
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.reportHDdichvu.resources
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.reportHDphong1.resources
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.reportKhachHang.resources
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.reportNhanVien.resources
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.reportPhong.resources
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.ThemDVchoKH.resources
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.csproj.GenerateResource.cache
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.csproj.CoreCompileInputs.cache
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.csproj.CopyComplete
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.exe
+C:\Users\DELLL\Downloads\AAW6072021.003_BuiThiYen_BTLHSK - Copy\lamdatagridview\obj\Debug\lamdatagridview.pdb
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\bin\Debug\lamdatagridview.exe.config
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\bin\Debug\lamdatagridview.exe
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\bin\Debug\lamdatagridview.pdb
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\bin\Debug\System.Data.SqlClient.dll
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\bin\Debug\stdole.dll
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\bin\Debug\System.Data.SqlClient.xml
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\obj\Debug\lamdatagridview.csproj.AssemblyReference.cache
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\obj\Debug\lamdatagridview.DangKi.resources
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\obj\Debug\lamdatagridview.DangNhap.resources
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\obj\Debug\lamdatagridview.DichVuKS.resources
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\obj\Debug\lamdatagridview.Form1.resources
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\obj\Debug\lamdatagridview.inHD.resources
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\obj\Debug\lamdatagridview.inHDdichvu.resources
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\obj\Debug\lamdatagridview.KhachHang.resources
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\obj\Debug\lamdatagridview.KH_DV.resources
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\obj\Debug\lamdatagridview.Main.resources
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\obj\Debug\lamdatagridview.Properties.Resources.resources
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\obj\Debug\lamdatagridview.reportHDdichvu.resources
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\obj\Debug\lamdatagridview.reportHDphong1.resources
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\obj\Debug\lamdatagridview.reportKhachHang.resources
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\obj\Debug\lamdatagridview.reportNhanVien.resources
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\obj\Debug\lamdatagridview.reportPhong.resources
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\obj\Debug\lamdatagridview.ThemDVchoKH.resources
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\obj\Debug\lamdatagridview.csproj.GenerateResource.cache
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\obj\Debug\lamdatagridview.csproj.CoreCompileInputs.cache
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\obj\Debug\lamdatagridview.csproj.CopyComplete
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\obj\Debug\lamdatagridview.exe
+C:\Users\DELLL\Desktop\btl_lthsk\lamdatagridview\obj\Debug\lamdatagridview.pdb
